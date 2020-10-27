@@ -17,3 +17,17 @@ Write out each endpoint, its method, and brief description of waht it should do.
 _This activity is more about the discussion in how to best organize data endpoints. There will not be any coding._
 
 ## Your Answer
+
+/allmember "GET" List of all the members
+
+/member "GET" The info of a single user
+
+/deletemember "DELETE" Remove a user
+
+/updateuser "PUT" Update the user infos
+
+/joinus "POST" Let a user join as member
+
+/products "GET" List of all the products for sale
+
+/comments "POST" Let the user post a comment
